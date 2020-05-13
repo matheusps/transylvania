@@ -2,7 +2,7 @@
 
 This theme is the result of some customizations I've been adding to Dracula along some months. Hope you enjoy it!
 
-![Screenshot](https://raw.githubusercontent.com/matheusps/transylvania/master/screenshot.png
+![Screenshot](https://raw.githubusercontent.com/matheusps/transylvania/master/screenshot.png)
 
 ### 🎨 Palette
 
