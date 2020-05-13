@@ -1,6 +1,6 @@
 ## 🦇 Transylvania Dark Theme - Slack
 
-This theme is the result of customizations achieved by blending [Dracula](https://draculatheme.com/) colors. Hope you enjoy it!
+> Slack version of Transylvania
 
 ![Screenshot](https://raw.githubusercontent.com/matheusps/transylvania/master/screenshot.png)
 

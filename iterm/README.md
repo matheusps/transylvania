@@ -1,10 +1,10 @@
 ## 🦇 Transylvania Dark Theme - Iterm
 
-This theme is the result of customizations achieved by blending [Dracula](https://draculatheme.com/) colors. Hope you enjoy it!
-
-> 💡This Screenshot features zsh & [starship](https://github.com/starship/starship)
+> Iterm version of Transylvania
 
 ![Screenshot](https://raw.githubusercontent.com/matheusps/transylvania/master/iterm/screenshot.png)
+
+> 💡This Screenshot features zsh & [starship](https://github.com/starship/starship)
 
 ### Instructions
 
