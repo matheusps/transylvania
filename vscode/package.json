@@ -1,0 +1,63 @@
+{
+  "name": "transylvania",
+  "version": "1.1.1",
+  "displayName": "Transylvania",
+  "homepage": "http://matheusps.github.io/transylvania",
+  "description": "Darker dracula-based vscode theme",
+  "publisher": "matheusps",
+  "license": "MIT",
+  "scripts": {
+    "build": "node ./scripts/build.js",
+    "lint": "node ./scripts/lint.js",
+    "package": "vsce package -o ./bin/transylvania.vsix",
+    "vscode:prepublish": "npm run build",
+    "vsce-publish": "vsce publish"
+  },
+  "maintainers": [
+    "Matheus P Silva <cout.matheusps@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matheusps/transylvania.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matheusps/transylvania/issues",
+    "email": "cout.matheusps@gmail.com"
+  },
+  "engines": {
+    "vscode": "^1.8.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "transylvania",
+    "theme",
+    "dracula",
+    "color-theme",
+    "drak-theme"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#22212C",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Transylvania",
+        "uiTheme": "vs-dark",
+        "path": "./theme/transylvania.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-plugin-jest": "^23.8.2",
+    "eslint-plugin-prettier": "^3.1.3",
+    "js-yaml": "^3.13.1",
+    "prettier": "^2.0.4",
+    "vsce": "^1.74.0"
+  }
+}
