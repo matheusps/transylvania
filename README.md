@@ -4,7 +4,7 @@ This theme is the result of some customizations I've been adding to Dracula alon
 
 ### 🎨 Palette
 
-💄Just in case you want to match your `Slack.app` or `Iterm`.
+Just in case you want to match your `Slack.app` or `Iterm`.
 
 | Color              | HEX     |
 |--------------------|---------|
