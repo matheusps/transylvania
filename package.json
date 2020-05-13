@@ -21,10 +21,11 @@
     "url": "https://github.com/matheusps/transylvania.git"
   },
   "bugs": {
-    "url": "https://github.com/matheusps/transylvania/issues"
+    "url": "https://github.com/matheusps/transylvania/issues",
+    "email": "cout.matheusps@gmail.com"
   },
   "engines": {
-    "vscode": "^1.13.0"
+    "vscode": "^1.8.0"
   },
   "categories": [
     "Themes"
@@ -55,10 +56,5 @@
     "js-yaml": "^3.13.1",
     "prettier": "^2.0.4",
     "vsce": "^1.74.0"
-  },
-  "__metadata": {
-    "id": "",
-    "publisherDisplayName": "Transylvania Theme",
-    "publisherId": ""
   }
 }
