@@ -28,7 +28,7 @@ transylvania:
     - &COLOR7        '#F8F8F3'
     - &COLOR8        '#6272A4'
     - &COLOR9        '#FF6E6E'
-    - &COLOR10       '#69FF94'
+    - &COLOR10       '#2CDA9D'
     - &COLOR11       '#FFFFA5'
     - &COLOR12       '#D6ACFF'
     - &COLOR13       '#F786AA'
@@ -45,9 +45,9 @@ transylvania:
     - &TAB_DROP_BG   '#44475A70'
     # UI Variants
     - &BGLighter     '#312C4B'
-    - &BGLight       '#2B283A' # HSV (230   , 25.71, 27.45)
-    - &BGDark        '#151320' # HSV (234.55, 25   , 17.25)
-    - &BGDarker      '#0B0A10' # HSV (234.55, 25   , 13   )
+    - &BGLight       '#2B283A'
+    - &BGDark        '#151320'
+    - &BGDarker      '#0B0A10'
 
 # User Interface (more info: https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 colors:

@@ -1,6 +1,6 @@
 ## 🦇 Transylvania Dark Theme
 
-This theme is the result of some customizations I've been adding to Dracula along some months. Hope you enjoy it!
+This theme is the result of customizations achieved by blending [Dracula](https://draculatheme.com/) colors. Hope you enjoy it!
 
 ![Screenshot](https://raw.githubusercontent.com/matheusps/transylvania/master/screenshot.png)
 
@@ -25,3 +25,9 @@ Just in case you want to match your `Slack.app` or `Iterm`.
 | PURPLE             | #B690FF |
 | RED                | #FB2C47 |
 | YELLOW             | #FEFF80 |
+
+### 💎 Special Thanks
+
+- My countryman 🇧🇷 [`@zenorocha`](https://github.com/zenorocha) that created [dracula](https://draculatheme.com/).
+- All [dracula/visual-studio-code](https://github.com/dracula/visual-studio-code) contributors.
+- `Ilham Juliandi` and [`Noun Project`](https://thenounproject.com/), who made the icon possible.

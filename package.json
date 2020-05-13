@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "displayName": "Transylvania",
   "homepage": "http://matheusps.github.io/transylvania",
-  "description": "Dark theme based on Dracula",
+  "description": "Darker dracula-based vscode theme",
   "publisher": "matheusps",
   "license": "MIT",
   "scripts": {
@@ -32,7 +32,10 @@
   ],
   "keywords": [
     "transylvania",
-    "theme"
+    "theme",
+    "dracula",
+    "color-theme",
+    "drak-theme"
   ],
   "icon": "icon.png",
   "galleryBanner": {
