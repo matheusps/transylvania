@@ -29,7 +29,9 @@ Just in case you need.
 #### Slack
 
 > Go to `User Menu > Preferences > Themes`
+
 > In the bottom of the window, look for a "customize your theme and share it with others" link
+
 > Copy and paste the values below (or playaround with the palette above).
 
 ```
@@ -39,10 +41,15 @@ Just in case you need.
 #### Iterm
 
 > Get the theme from [here]()
+
 > `iTerm2 > Preferences > Profiles > Colors Tab`
+
 > Open the Color Presets... drop-down in the bottom right corner
+
 > Select Import... from the list
+
 > Select the transylvania.itermcolors file
+
 > Select the Transylvania from Color Presets...
 
 ### 💎 Special Thanks
