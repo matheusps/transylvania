@@ -10,14 +10,14 @@ Just in case you want to match your `Slack.app` or `Iterm`.
 
 | Color              | HEX     |
 |--------------------|---------|
-| BACKGROUND         | #22212C |
+| BACKGROUND         | #21202A |
 | BACKGROUND LIGHTER | #312C4B |
 | BACKGROUND LIGHT   | #2B283A |
 | BACKGROUND DARK    | #151320 |
 | BACKGROUND DARK    | #0B0A10 |
 | FOREGROUND         | #F8F8F3 |
-| SELECTION          | #444058 |
-| COMMENT            | #7971AA |
+| SELECTION          | #3A374B |
+| COMMENT            | #625C87 |
 | CYAN               | #7FF3FE |
 | GREEN              | #88FC7F |
 | ORANGE             | #FECA80 |

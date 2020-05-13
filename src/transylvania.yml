@@ -6,10 +6,10 @@ semanticClass: theme.transylvania
 semanticHighlighting: true
 transylvania:
   base:
-    - &BG        '#22212C'
+    - &BG        '#21202A'
     - &FG        '#F8F8F3'
-    - &SELECTION '#444058'
-    - &COMMENT   '#7971AA'
+    - &SELECTION '#3A374B'
+    - &COMMENT   '#625C87'
     - &CYAN      '#7FF3FE'
     - &GREEN     '#88FC7F'
     - &ORANGE    '#FECA80'
@@ -31,7 +31,7 @@ transylvania:
     - &COLOR10       '#69FF94'
     - &COLOR11       '#FFFFA5'
     - &COLOR12       '#D6ACFF'
-    - &COLOR13       '#FF92DF'
+    - &COLOR13       '#F786AA'
     - &COLOR14       '#A4FFFF'
     - &COLOR15       '#FFFFFF'
   brightOther:
