@@ -19,9 +19,9 @@ Run Visual Studio Code. The Transylvania Syntax Theme will be available from `Fi
 
 You can apply this palette in some apps:
 
-- [Iterm]()
-- [Slack]()
-- [Google Chrome]()
+- [Iterm](https://github.com/matheusps/transylvania/tree/master/matches/iterm)
+- [Slack](https://github.com/matheusps/transylvania/tree/master/matches/slack)
+- [Google Chrome](https://github.com/matheusps/transylvania/tree/master/matches/chrome)
 
 ### 🎨 Palette
 
