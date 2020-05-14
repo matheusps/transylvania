@@ -2,7 +2,7 @@
 
 > Iterm version of Transylvania
 
-![Screenshot](https://raw.githubusercontent.com/matheusps/transylvania/master/iterm/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/matheusps/transylvania/master/matches/iterm/screenshot.png)
 
 > 💡This Screenshot features zsh & [starship](https://github.com/starship/starship)
 

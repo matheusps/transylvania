@@ -2,7 +2,7 @@
 
 > Slack version of Transylvania
 
-![Screenshot](https://raw.githubusercontent.com/matheusps/transylvania/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/matheusps/transylvania/master/matches/slack/screenshot.png)
 
 ### Instructions
 
