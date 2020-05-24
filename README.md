@@ -2,7 +2,13 @@
 
 This theme is the result of customizations achieved by blending [Dracula](https://draculatheme.com/) colors. Hope you enjoy it!
 
-![Screenshot](https://raw.githubusercontent.com/matheusps/transylvania/master/screenshot.png)
+## Default theme
+
+![Screenshot](https://raw.githubusercontent.com/matheusps/transylvania/master/screenshot-default.png)
+
+## Long Night [BETA]
+
+![Screenshot](https://raw.githubusercontent.com/matheusps/transylvania/master/screenshot-long-night.png)
 
 ### 👨🏾‍💻 Install using Command Palette
 
