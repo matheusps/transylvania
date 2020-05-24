@@ -19,7 +19,7 @@ transylvania:
     - &YELLOW    '#FFFF81'
   ansi:
     - &COLOR0        '#2C2122'
-    - &COLOR1        '#FB2C47'
+    - &COLOR1        '#FA7F7F'
     - &COLOR2        '#8AFD80'
     - &COLOR3        '#FFFF81'
     - &COLOR4        '#B382D9'

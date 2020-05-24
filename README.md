@@ -27,23 +27,42 @@ You can apply this palette in some apps:
 
 Just in case you need.
 
+#### Base
+
+| Color | HEX |
+| --- | --- |
+| CYAN               | #82FFEC |
+| GREEN              | #8AFD80 |
+| ORANGE             | #FBC87F |
+| PINK               | #FF82C3 |
+| PURPLE             | #B382D9 |
+| RED                | #FA7F7F |
+| YELLOW             | #FFFF81 |
+
+#### Default
 | Color              | HEX     |
 |--------------------|---------|
-| BACKGROUND         | #21202A |
+| BACKGROUND         | #22212C |
 | BACKGROUND LIGHTER | #312C4B |
 | BACKGROUND LIGHT   | #2B283A |
 | BACKGROUND DARK    | #151320 |
 | BACKGROUND DARKER  | #0B0A10 |
-| FOREGROUND         | #F8F8F3 |
-| SELECTION          | #3A374B |
-| COMMENT            | #625C87 |
-| CYAN               | #7FF3FE |
-| GREEN              | #88FC7F |
-| ORANGE             | #FECA80 |
-| PINK               | #FF81C0 |
-| PURPLE             | #B690FF |
-| RED                | #FB2C47 |
-| YELLOW             | #FEFF80 |
+| FOREGROUND         | #F5F5F0 |
+| SELECTION          | #2B2839 |
+| COMMENT            | #776EA5 |
+
+#### Long Night [BETA]
+| Color              | HEX     |
+|--------------------|---------|
+| BACKGROUND         | #2C2122 |
+| BACKGROUND LIGHTER | #382A31 |
+| BACKGROUND LIGHT   | #2E2228 |
+| BACKGROUND DARK    | #1F171B |
+| BACKGROUND DARKER  | #1A1316 |
+| FOREGROUND         | #E6DAE0 |
+| SELECTION          | #4A3640 |
+| COMMENT            | #AA717A |
+
 
 ### 💎 Special Thanks
 
