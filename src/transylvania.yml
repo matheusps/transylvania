@@ -8,7 +8,7 @@ transylvania:
   base:
     - &BG        '#22212C'
     - &FG        '#F5F5F0'
-    - &SELECTION '#2B2839'
+    - &SELECTION '#383352'
     - &COMMENT   '#776EA5'
     - &CYAN      '#82FFEC'
     - &GREEN     '#8AFD80'
